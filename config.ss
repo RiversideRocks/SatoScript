@@ -8,3 +8,5 @@ gear "Micro Processor v2.3.4";
   %
 build "Standard";
   file "build.guy"
+  dependencies "golden-retriever"
+  %
